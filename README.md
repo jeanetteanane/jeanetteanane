@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeanette</h1>
-<h3 align="center">A passionate Software Engineer from London</h3>
+<h3 align="center">A Software Engineer from London</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
